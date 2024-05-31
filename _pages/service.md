@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /service/
+title: service
+#description: 
+nav: true
+---
+
+I regularly serve for the machine learning community. 
+My activities include: 
+- Review for
+    - [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+    - [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+    - [IEEE Transactions on Signal and Information Processing over Networks](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276)
+    - [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
+    - [Displays](https://www.journals.elsevier.com/displays)
+    - NeurIPS, ICML, ICLR, AAAI, ACM Multimedia, ...
+
+- Organize
+    - [The Workshop on Data-driven Knowledge Mobilization, CASCON 2016](https://dl.acm.org/doi/10.5555/3049877.3049908)
+
+<!---
+    - [NeurIPS-2022](https://nips.cc/Conferences/2022)
+    - [ICML-2022](https://icml.cc/Conferences/2022/)
+    - [AAAI-2022](https://aaai.org/Conferences/AAAI-22/)
+    - [NeurIPS-2021](https://nips.cc/Conferences/2021)
+    - [AAAI-2021](https://iclr.cc/Conferences/2021/) 
+    - [ICML-2021](https://icml.cc/Conferences/2021)
+    - [NeurIPS-2020](https://nips.cc/Conferences/2020)
+    - [ICML-2020](https://icml.cc/Conferences/2020/) 
+-->
