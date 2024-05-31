@@ -6,11 +6,4 @@ description: A bio for use in announcements, introductions, etc.
 nav: true
 ---
 
-Dixin Luo is an Assistant Professor at Beijing Institute of Technology, Beijing, China. 
-Her research is dedicated to developing robust and generalizable machine learning models and algorithms that can tackle challenging real-world problems. 
-She has been concentrating on several research topics, including multi-modal learning, sequential data analysis, and artificial intelligence for healthcare. 
-In terms of methodology, she is fascinated by computational optimal transport, temporal point processes, and their applications in various domains. 
-
-Dr. Luo is a proud graduate of Shanghai Jiao Tong University (SJTU), where she completed her PhD and BE in Electronic Engineering in 2016 and 2010, respectively. 
-During her studies, she was under the joint supervision of Professors Wenjun Zhang (SJTU), Hongyuan Zha (Georgia Tech), and Xiaokang Yang (SJTU). 
-After that, she spent four fantastic years at University of Toronto and Duke University as a postdoctoral fellow.
+Dr. Ding is currently an Associate Professor of bioinformatics at Nanjing University Of Finance & Economics, Nanjing, China. He also serves as Associate Dean for the biomedical engineering research center at the college of information engineering since 2023. He received his Ph.D. (2011) from Xi’an Jiaotong University, China. He serves as a visiting scholar at School of Electrical and Electronic Engineering, Nanyang Technological University under the award of Chinese Scholarship Council (CSC) from 2009- 2010. He was with the Laboratory of Science and Technology on Information Systems Engineering in Nanjing, China from 2011- 2016, and was with Huawei Technologies Co., Ltd, Nanjing, China from 2016- 2018. His current research interests include: 1) multi-modal machine learning for integrative analysis of heterogeneous biomedical data; 2) developing innovative informatics methods and tools to address data science challenges in biomedicine; 3）interpretable and responsible machine learning models for clinical decision support.
