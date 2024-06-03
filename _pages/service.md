@@ -11,7 +11,7 @@ My activities include:
 - Review for
     - [IEEE Transactions on Cybernetics (TCYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
     - [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-    - [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
+    - [IEEE Transactions on Artificial Intelligence (TAI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
     - [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
     - [Displays](https://www.journals.elsevier.com/displays)
     - NeurIPS, ICML, ICLR, AAAI, ACM Multimedia, ...
