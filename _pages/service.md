@@ -9,9 +9,9 @@ nav: true
 I regularly serve for the machine learning community. 
 My activities include: 
 - Review for
-    - [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+    - [IEEE Transactions on Cybernetics (TCYB)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
     - [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-    - [IEEE Transactions on Signal and Information Processing over Networks](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276)
+    - [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
     - [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
     - [Displays](https://www.journals.elsevier.com/displays)
     - NeurIPS, ICML, ICLR, AAAI, ACM Multimedia, ...
