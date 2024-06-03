@@ -26,5 +26,6 @@ He is the regular reviewer of more than 10 IEEE Transactions journals like **TCY
 His current research interests include: 1) multi-modal machine learning for integrative analysis of heterogeneous biomedical data; 2) developing innovative informatics methods and tools to address data science challenges in biomedicine; 3）interpretable and responsible machine learning models for clinical decision support.
 
 **Looking for highly motivated undergrad/graduate students to work on multi-modal machine learning and/or its applications in image, text, and biomedicine.**
+
 **If you are interested, please drop me an email with your CV.**
 
