@@ -1,6 +1,0 @@
----
-layout: post
-date: 2023-04-25 06:11:00
-inline: true
----
-:tada: Our papers <em>"Group Sparse Optimal Transport for Sparse Process Flexibility Design"</em> and <em>"Coupled Point Process-based Sequence Modeling for Privacy-preserving Network Alignment"</em> have been accepted by <b>IJCAI 2023</b>.

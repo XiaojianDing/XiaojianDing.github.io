@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2023-04-25 06:11:00
+inline: true
+---
+:tada: Our papers <em>"Multi-View Randomized Kernel Classification via Nonconvex Optimization"</em> have been accepted by <b>AAAI 2024</b>.
